@@ -1,2 +1,2 @@
-def imprimeAlgo():
-    print("Imprime algo no subPaquete, e o seu nome: ", __name__)
+def faiAlgo2():
+    print("Imprimo algo no subpaquete, e o seu nome: ", __name__)

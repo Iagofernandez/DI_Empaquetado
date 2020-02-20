@@ -3,3 +3,8 @@ include *.txt *.in
 include *.py
 recursive-include paquete *
 global-exclude *.pyc *.pyo *~
+
+global-exclude *.pyc *.pyo *~
+graft datos
+prune build
+prune dist
